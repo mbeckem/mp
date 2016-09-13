@@ -2,11 +2,11 @@ Motion Pattern Analysis
 =======================
 
 This library was written as a part of my bachelors thesis and
-implements the methods detailed in the following paper:
+implements the method detailed in the following paper:
 
 Tool support for detection and analysis of following and
 leadership behavior of pedestrians from mobile sensing data
-	Mikkel Baun Kjærgaard, Henrik Blunckm, 2013
+	Mikkel Baun Kjærgaard, Henrik Blunck, 2013
 
 http://dx.doi.org/10.1016/j.pmcj.2013.10.007
 
